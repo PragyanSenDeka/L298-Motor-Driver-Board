@@ -466,7 +466,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "L298_Motor_driver.kicad_pro",
+    "filename": "MotorDriver.kicad_pro",
     "version": 3
   },
   "net_settings": {
@@ -626,7 +626,7 @@
   },
   "sheets": [
     [
-      "aeb2b35d-6ab6-4d54-82d5-bf21a0583ac9",
+      "97a30331-a884-472c-8a33-23e8db01f0e3",
       "Root"
     ]
   ],
